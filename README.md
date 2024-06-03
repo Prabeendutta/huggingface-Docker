@@ -33,3 +33,9 @@ This project creates a Docker container that periodically generates a report of 
 
 4. **Check the Report**:
     - After the container finishes running, check the `report.txt` file in the project directory to see the generated report.
+
+## Project Structure
+
+- `Dockerfile`: Defines the Docker image and sets up the environment.
+- `generate_report.py`: Python script to fetch data from Hugging Face API and generate a report.
+- `report.txt`: Output file where the report will be written.
