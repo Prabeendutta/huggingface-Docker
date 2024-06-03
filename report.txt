@@ -1,0 +1,32 @@
+Top 10 Hugging Face Models by Downloads:
+========================================
+Model: google-bert/bert-base-uncased
+Downloads: 61307698
+----------------------------------------
+Model: distilbert/distilbert-base-uncased
+Downloads: 18847697
+----------------------------------------
+Model: FacebookAI/roberta-large
+Downloads: 10999612
+----------------------------------------
+Model: openai-community/gpt2
+Downloads: 10322386
+----------------------------------------
+Model: FacebookAI/roberta-base
+Downloads: 9986869
+----------------------------------------
+Model: FacebookAI/xlm-roberta-large
+Downloads: 8538544
+----------------------------------------
+Model: FacebookAI/xlm-roberta-base
+Downloads: 6071235
+----------------------------------------
+Model: distilbert/distilbert-base-uncased-finetuned-sst-2-english
+Downloads: 5681162
+----------------------------------------
+Model: google-bert/bert-base-multilingual-cased
+Downloads: 4992671
+----------------------------------------
+Model: google-t5/t5-small
+Downloads: 4863580
+----------------------------------------
